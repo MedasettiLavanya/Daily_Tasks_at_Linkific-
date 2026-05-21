@@ -1,0 +1,99 @@
+# Day 1 - Software Testing Fundamentals & Environment Setup
+
+## Objective
+To understand the fundamentals of software testing, learn SDLC and STLC concepts, explore testing types and levels, and set up the basic testing environment required for QA work.
+
+---
+
+## Tools / Setup Completed
+- Installed Browsers: Chrome, Firefox, Edge
+- Explored Browser Developer Tools
+- Installed note-taking tool (Notion / OneNote)
+- Installed screenshot and screen recording tools
+- Created GitHub account and installed Git
+
+---
+
+## Topics Covered
+
+### 1. Software Testing Fundamentals
+- Understood the purpose of software testing
+- Learned the importance of quality assurance in software development
+
+---
+
+### 2. SDLC Models
+Studied different SDLC approaches:
+- Waterfall Model
+- Agile Methodology
+- Scrum Framework
+- DevOps Approach
+
+Also understood where testing fits in each model.
+
+---
+
+### 3. STLC (Software Testing Life Cycle)
+Learned STLC phases:
+- Requirement Analysis
+- Test Planning
+- Test Case Development
+- Test Environment Setup
+- Test Execution
+- Test Closure
+
+---
+
+### 4. SDLC vs STLC
+Understood the difference between development and testing lifecycle and how both are connected.
+
+---
+
+### 5. Testing Types
+Learned and classified testing types:
+- Functional Testing
+- Non-Functional Testing (Performance, Security, Usability)
+- Maintenance Testing (Regression, Sanity)
+- Change-related Testing (Re-testing, Regression)
+
+---
+
+### 6. Testing Levels
+Learned different testing levels:
+- Unit Testing
+- Integration Testing
+- System Testing
+- Acceptance Testing
+
+---
+
+### 7. 7 Principles of Testing
+Studied the 7 principles:
+- Testing shows presence of defects
+- Exhaustive testing is impossible
+- Early testing
+- Defect clustering
+- Pesticide paradox
+- Testing is context dependent
+- Absence of errors fallacy
+
+---
+
+## Practice Activities
+- Identified testing types for sample scenarios
+- Mapped STLC phases with SDLC stages
+- Created basic testing glossary
+
+---
+
+## Deliverables Completed
+- Testing environment setup completed
+- SDLC vs STLC comparison notes prepared
+- Testing types classification notes prepared
+- 7 principles examples documented
+- Testing glossary created
+
+---
+
+## Conclusion
+Day 1 helped in building a strong foundation in software testing concepts, understanding SDLC and STLC processes, and setting up the required tools for further QA practice.
