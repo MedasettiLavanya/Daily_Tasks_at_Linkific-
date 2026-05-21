@@ -1,0 +1,96 @@
+# Day 2 - Test Case Writing Fundamentals
+
+## Objective
+To learn how to write effective test cases, understand test case components, apply test design techniques, and practice creating test scenarios for different applications.
+
+---
+
+## Topics Covered
+
+### 1. Test Case Fundamentals
+Learned the importance of test cases in software testing and how they help validate application functionality systematically.
+
+---
+
+### 2. Test Case Components
+Understood different components of a test case:
+- Test Case ID
+- Test Case Title
+- Preconditions
+- Test Steps
+- Test Data
+- Expected Result
+- Actual Result
+- Status (Pass/Fail/Blocked)
+- Priority
+- Severity
+
+---
+
+### 3. Test Scenario vs Test Case
+Learned the difference between:
+- **Test Scenario** → High-level functionality to test
+- **Test Case** → Detailed steps to validate functionality
+
+Also understood that:
+- One scenario can contain multiple test cases.
+
+---
+
+### 4. Test Case Design Techniques
+Studied different techniques:
+- Equivalence Partitioning
+- Boundary Value Analysis
+- Decision Table Testing
+- State Transition Testing
+- Use Case Testing
+
+---
+
+### 5. Effective Test Case Writing
+Learned how to write:
+- Clear and concise test cases
+- Independent test cases
+- Reusable test cases
+- Requirement-traceable test cases
+- Review-ready documentation
+
+---
+
+## Practice Applications
+Created practice test cases for:
+- Login page
+- Registration form
+- Shopping cart
+- Search functionality
+- File upload module
+
+---
+
+## Test Case Organization
+Learned:
+- Test suite creation
+- Folder structure organization
+- Naming conventions
+- Version control basics
+
+---
+
+## Templates Created
+- Test Case Template
+- Test Scenario Template
+- Requirement Traceability Matrix (RTM)
+
+---
+
+## Deliverables Completed
+- Test case template created
+- 50+ Login page test cases prepared
+- 30+ Registration form test cases prepared
+- Test scenario document created
+- Traceability matrix example prepared
+
+---
+
+## Conclusion
+Day 2 provided hands-on experience in writing structured and effective test cases using different design techniques and organizing test documentation professionally.
