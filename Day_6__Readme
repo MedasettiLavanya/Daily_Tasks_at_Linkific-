@@ -1,0 +1,108 @@
+# Day 6 - Functional Testing & End-to-End Testing
+
+## Objective
+To understand functional testing concepts, execute end-to-end workflows, validate business requirements, and test complete user scenarios.
+
+---
+
+## Topics Covered
+
+### 1. Functional Testing Fundamentals
+Learned:
+- Functional testing validates application features
+- Testing is based on business requirements
+- Input → Process → Output validation
+- Feature-by-feature verification
+
+---
+
+### 2. Types of Functional Testing
+
+#### Smoke Testing
+- Basic functionality verification
+- Ensures build is stable for testing
+
+#### Sanity Testing
+- Quick validation after bug fixes or minor changes
+
+#### Regression Testing
+- Ensures existing features work after changes
+
+#### Re-testing
+- Confirms previously reported bugs are fixed
+
+#### User Acceptance Testing (UAT)
+- End-user validation against business needs
+
+---
+
+### 3. End-to-End (E2E) Testing
+Learned complete workflow testing across multiple integrated modules.
+
+Examples studied:
+- E-commerce:
+  - Browse → Add to Cart → Checkout → Payment → Confirmation
+- Banking:
+  - Login → Transfer Money → Verify Balance → Logout
+- Booking:
+  - Search → Select → Payment → Booking Confirmation
+
+---
+
+### 4. Functional Areas Tested
+Practiced testing:
+- Login and Logout
+- Search functionality
+- Form operations (Create/Edit/Delete)
+- Filters and Sorting
+- Pagination
+- File Upload and Download
+- Print functionality
+- Export features
+
+---
+
+### 5. E2E Scenario Creation
+Created:
+- Happy path scenarios
+- Negative scenarios
+- Validation scenarios
+- Alternative user flows
+- Edge case scenarios
+
+---
+## Practice Applications
+Created and executed end-to-end functional test scenarios using Google Sheets for:
+- Login functionality
+- Registration workflows
+- Search functionality
+- Cart and checkout flow
+- Form validations
+- Regression testing scenarios
+
+Maintained test execution tracking and scenario organization in spreadsheet format.
+
+Created multiple end-to-end scenarios for real-world testing.
+
+---
+
+### 6. Regression Test Suite
+Prepared regression suite covering:
+- Critical features
+- Frequently used functionalities
+- High-risk modules
+- Bug-prone areas
+
+---
+## Deliverables Completed
+- Smoke test checklist prepared
+- Sanity test cases created
+- 30+ End-to-End test scenarios documented
+- Regression test suite prepared
+- Test execution results maintained in Google Sheets
+- Functional testing scenarios organized in spreadsheet format
+
+---
+
+## Conclusion
+Day 6 helped in understanding functional testing techniques, executing complete user workflows, validating business requirements, and creating effective end-to-end test scenarios.
