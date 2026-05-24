@@ -1,0 +1,98 @@
+# Day 5 - White Box Testing & Code Coverage
+
+## Objective
+To understand white box testing concepts, learn basic code reading, understand code coverage metrics, and identify testing gaps using coverage techniques.
+
+---
+
+## Topics Covered
+
+### 1. White Box Testing Fundamentals
+Learned:
+- Testing with knowledge of internal code structure
+- Understanding application logic
+- Importance of code coverage
+- When white box testing is used
+- Tester’s role in white box testing
+
+---
+
+### 2. Basic Code Reading
+Understood basic programming concepts:
+- If statements
+- For and while loops
+- Functions and methods
+- Program flow
+- Branch identification
+
+---
+
+### 3. Statement Coverage
+Learned:
+- Every line of code should execute at least once
+- Coverage Formula:
+
+Coverage % = (Executed Statements / Total Statements) × 100
+
+Practiced:
+- Identifying executed statements
+- Finding untested code lines
+- Improving statement coverage
+
+---
+
+### 4. Branch Coverage (Decision Coverage)
+Learned:
+- Testing all decision branches
+- Validating both True and False conditions
+- Better coverage compared to statement coverage
+
+Practiced on:
+- if-else conditions
+- switch-case logic
+
+---
+
+### 5. Path Coverage
+Understood:
+- Testing all possible execution paths
+- Importance of nested condition testing
+- Limitations due to high number of paths
+
+Practiced path analysis on sample logic flows.
+
+---
+
+## Practice Activities
+Worked on:
+- Simple login validation function
+- Coverage calculation for test cases
+- Identifying missing test scenarios
+- Adding tests to improve branch coverage
+
+---
+
+## Tools Awareness
+Learned about code coverage tools:
+- JaCoCo
+- Istanbul
+- Coverage.py
+
+Also understood:
+- Reading coverage reports
+- How developers use coverage tools
+- Importance of requesting coverage reports during testing
+
+---
+
+## Deliverables Completed
+- Statement coverage examples prepared
+- Branch coverage calculations completed
+- Test cases for 100% branch coverage created
+- Code flow diagrams prepared
+- Coverage report analysis documented
+
+---
+
+## Conclusion
+Day 5 helped in understanding white box testing concepts, analyzing code logic, calculating coverage metrics, and identifying testing gaps to improve overall test effectiveness.
