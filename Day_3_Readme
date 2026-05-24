@@ -1,0 +1,110 @@
+# Day 3 - Git, GitHub & Test Documentation
+
+## Objective
+To learn Git and GitHub for managing test artifacts, maintaining test documentation, collaborating with teams, and version controlling test cases.
+
+---
+
+## Tools Used
+- Git
+- GitHub
+- GitHub Desktop (Optional)
+
+---
+
+## Topics Covered
+
+### 1. Git & GitHub Basics
+Learned the purpose of version control and how Git helps track and manage testing artifacts.
+
+---
+
+### 2. Git Environment Setup
+Completed:
+- Git installation
+- Git configuration (username and email)
+- GitHub account setup
+- Repository creation
+
+---
+
+### 3. Git Commands Practiced
+Practiced commonly used Git commands:
+- `git init`
+- `git clone`
+- `git add`
+- `git commit`
+- `git push`
+- `git pull`
+- `git fetch`
+
+Also learned:
+- `.gitignore`
+- Commit message conventions
+
+---
+
+### 4. Branching Strategy
+Understood Git branching concepts:
+- `feature/test-login`
+- `bugfix/login-validation`
+
+Learned to:
+- Create branches for features
+- Work independently
+- Merge after review
+
+---
+
+### 5. Test Repository Organization
+Created organized repository structure:
+
+```text
+/test-project
+ ├── test-cases/
+ │   ├── functional/
+ │   ├── integration/
+ │   ├── regression/
+ ├── test-data/
+ ├── bug-reports/
+ ├── test-plans/
+ ├── screenshots/
+ └── README.md
+
+6. Version Control for Test Cases
+
+Learned how to:
+
+Track test case updates
+Review change history
+Revert changes if needed
+Maintain versions of testing documents
+7. Collaboration Workflow
+
+Understood collaboration practices:
+
+Pull Requests
+Test case reviews
+Issue tracking
+Project boards for planning
+8. README Documentation
+
+Prepared README documentation including:
+
+Test approach
+Environment setup
+Test data information
+Bug reporting process
+
+Deliverables Completed
+Git repository created and configured
+Test repository structure setup completed
+10+ commits performed with proper messages
+Test cases added to version control
+README documentation created
+Collaboration workflow documented
+
+
+Conclusion
+
+Day 3 helped in understanding Git and GitHub workflows for managing QA documentation, collaborating with teams, and maintaining version-controlled testing artifacts.
