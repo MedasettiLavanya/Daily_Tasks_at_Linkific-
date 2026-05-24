@@ -1,0 +1,113 @@
+# Day 10 - Alternative Bug Tracking Tools & Test Management
+
+## Objective
+To explore alternative bug tracking tools, understand test management concepts, organize test execution activities, and track testing metrics using test management tools.
+
+---
+
+## Tools Explored
+- Bugzilla
+- MantisBT
+- Azure DevOps
+- GitHub Issues
+- Redmine
+- TestRail
+- Zephyr
+- qTest
+- Excel / Google Sheets
+
+---
+
+## Topics Covered
+
+### 1. Alternative Bug Tracking Tools
+Explored different bug tracking tools and understood their usage:
+
+- **Bugzilla** → Open-source bug tracking tool
+- **MantisBT** → Lightweight defect tracking tool
+- **Azure DevOps** → Microsoft project and testing platform
+- **GitHub Issues** → Bug tracking within GitHub repositories
+- **Redmine** → Project management with issue tracking
+
+Also compared:
+- Features
+- Pricing
+- Ease of use
+- Integration support
+- Suitable project types
+
+---
+
+### 2. Test Management Fundamentals
+Learned:
+- Test case repository management
+- Test execution tracking
+- Test run creation
+- Recording execution results
+- Defect linking and traceability
+- Test reporting
+
+---
+
+### 3. Test Management Tools
+Studied commonly used tools:
+- TestRail
+- Zephyr
+- qTest
+- Excel / Google Sheets
+
+Understood when to use each tool depending on project size and complexity.
+
+---
+
+### 4. TestRail Practice
+Performed:
+- Project setup
+- Test suite creation
+- Test case organization
+- Test run creation
+- Result execution tracking
+
+---
+
+### 5. Test Artifact Organization
+Organized:
+- Test case repositories
+- Execution tracking sheets
+- Defect linkage
+- Traceability matrix
+- Test reports
+
+---
+
+### 6. Testing Metrics
+Learned important QA metrics:
+- Test Case Execution Rate
+- Pass / Fail Rate
+- Defect Density
+- Defect Removal Efficiency
+- Test Coverage
+
+---
+
+### 7. Test Reporting
+Prepared sample reports:
+- Daily Test Status Report
+- Weekly Test Summary
+- Test Execution Dashboard
+- Defect Summary Report
+
+---
+
+## Deliverables Completed
+- Tools Comparison Matrix created
+- TestRail project setup completed
+- Test management structure organized
+- Testing metrics dashboard prepared
+- Test execution reports documented
+- README with tool recommendations created
+
+---
+
+## Conclusion
+Day 10 helped in understanding various bug tracking and test management tools, organizing QA artifacts, tracking execution metrics, and preparing professional testing reports used in real-world projects.
