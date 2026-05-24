@@ -1,0 +1,128 @@
+# Day 9 - JIRA & Bug Tracking Tools
+
+## Objective
+To learn JIRA as a bug tracking tool by creating projects, managing defects, understanding workflows, and working with Agile boards and dashboards.
+
+---
+
+## Tool Used
+- Atlassian JIRA Cloud (Free Version)
+
+---
+
+## Topics Covered
+
+### 1. JIRA Setup
+Completed:
+- JIRA account creation
+- Test project setup
+- Understanding JIRA interface and navigation
+
+---
+
+### 2. JIRA Issue Types
+Learned different issue types used in Agile projects:
+- Bug
+- Story
+- Task
+- Epic
+- Sub-task
+
+---
+
+### 3. Bug Creation in JIRA
+Practiced:
+- Creating defects in JIRA
+- Filling required bug fields
+- Adding attachments
+- Setting labels
+- Linking related issues
+- Adding watchers
+
+---
+
+### 4. JIRA Workflow
+Understood:
+- Default JIRA workflow
+- Status transitions
+- Workflow stages
+- Custom workflow basics
+
+Workflow practiced:
+- To Do
+- In Progress
+- In Review
+- Done
+
+Also explored:
+- Reopen
+- Rejected
+- Deferred statuses
+
+---
+
+### 5. Scrum Board
+Worked with Scrum features:
+- Backlog management
+- Sprint creation
+- Sprint planning
+- Sprint board tracking
+- Burndown chart basics
+- Velocity tracking overview
+
+---
+
+### 6. Kanban Board
+Learned:
+- Continuous workflow management
+- To Do → In Progress → Done flow
+- Work In Progress (WIP) concepts
+
+---
+
+### 7. JIRA Filters & Dashboards
+Practiced:
+- JQL query creation
+- Saving and sharing filters
+- Dashboard creation
+- Adding gadgets/widgets for reporting
+
+Sample JQL Queries:
+- `project = "Bug Tracking Practice" AND issuetype = Bug`
+- `status = "To Do"`
+- `priority = High`
+- `labels = login`
+
+---
+
+### 8. Advanced JIRA Features
+Learned:
+- Components
+- Versions/Releases
+- Fix Versions
+- Affects Versions
+- Time Tracking basics
+
+---
+
+## Practice Activities
+- Created 20+ bugs in JIRA
+- Moved defects through workflows
+- Created Sprint 1
+- Configured Scrum board
+- Built custom dashboard with reporting gadgets
+
+---
+
+## Deliverables Completed
+- JIRA Project Created
+- 20+ Bugs Logged in JIRA
+- Scrum Board Configured
+- Custom Dashboard Created
+- JQL Filters Created
+- Workflow Transitions Practiced
+
+---
+
+## Conclusion
+Day 9 provided hands-on experience with JIRA bug tracking, Agile workflows, Scrum boards, dashboards, and defect management processes used in real-time software testing projects.
