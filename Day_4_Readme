@@ -1,0 +1,113 @@
+# Day 4 - Black Box Testing Techniques
+
+## Objective
+To understand black box testing techniques, apply test design methods, and create effective test cases based on user requirements without knowledge of internal code.
+
+---
+
+## Topics Covered
+
+### 1. Black Box Testing Fundamentals
+Learned:
+- Testing without knowledge of internal code
+- Testing from user perspective
+- Requirement-based testing
+- Input and output validation
+- When black box testing is used
+
+---
+
+### 2. Equivalence Partitioning (EP)
+Studied how to divide input data into:
+- Valid partitions
+- Invalid partitions
+
+Practiced selecting one representative value from each partition.
+
+Example:
+- Age field:
+  - 0–17 → Invalid
+  - 18–100 → Valid
+  - 101+ → Invalid
+
+Practiced EP on multiple input fields.
+
+---
+
+### 3. Boundary Value Analysis (BVA)
+Learned boundary testing concepts:
+- Minimum value
+- Maximum value
+- Just below minimum
+- Just above maximum
+
+Example:
+- Age 18–60
+- Tested: 17, 18, 19, 59, 60, 61
+
+Practiced BVA on different scenarios.
+
+---
+
+### 4. Decision Table Testing
+Learned:
+- Business rule validation
+- Multiple condition combinations
+- Expected output mapping
+
+Created decision tables for:
+- Discount systems
+- Login conditions
+- Payment combinations
+- Booking validations
+
+---
+
+### 5. State Transition Testing
+Understood:
+- Application states
+- Valid transitions
+- Invalid transitions
+
+Example:
+- Order flow:
+  - Pending → Confirmed → Shipped → Delivered
+
+Created sample state transition diagrams.
+
+---
+
+## Practice Applications
+Applied black box testing techniques on:
+- E-commerce checkout flow
+- Banking transaction system
+- Booking application
+- User registration form validations
+
+---
+
+## Test Case Design Practice
+Created test cases using:
+- Equivalence Partitioning
+- Boundary Value Analysis
+- Decision Tables
+- State Transition Testing
+
+Also learned:
+- Combining techniques
+- Reducing redundant test cases
+- Maximizing coverage with minimum tests
+
+---
+
+## Deliverables Completed
+- 10 Equivalence Partitioning examples
+- 10 Boundary Value Analysis scenarios
+- 5 Decision Tables created
+- 3 State Transition Diagrams prepared
+- 100+ Black Box Test Cases created
+
+---
+
+## Conclusion
+Day 4 helped in mastering black box testing techniques and applying structured test design methods to improve test coverage and defect identification efficiency.
