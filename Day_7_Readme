@@ -1,0 +1,110 @@
+# Day 7 - System Testing & Integration Testing
+
+## Objective
+To understand system testing and integration testing concepts, validate complete system workflows, test integrated modules, and perform basic API testing using Postman.
+
+---
+
+## Tools Used
+- Postman
+- JMeter
+- Google Sheets / Excel
+
+---
+
+## Topics Covered
+
+### 1. System Testing Fundamentals
+Learned:
+- Complete system validation
+- Testing in production-like environment
+- Functional and non-functional testing
+- Requirement-based system verification
+
+---
+
+### 2. Types of System Testing
+Studied different system testing types:
+- Functional Testing
+- Performance Testing
+- Security Testing
+- Usability Testing
+- Compatibility Testing
+
+Also explored JMeter basics for performance testing practice.
+
+---
+
+### 3. Integration Testing Fundamentals
+Learned:
+- Testing combined modules and interfaces
+- Data flow validation between components
+- API integration concepts
+- Module interaction testing
+
+---
+
+### 4. Integration Testing Approaches
+Understood different integration methods:
+- Big Bang Integration
+- Top-Down Integration
+- Bottom-Up Integration
+- Sandwich/Hybrid Integration
+
+---
+
+### 5. API Testing Basics
+Learned API testing concepts using Postman:
+- REST APIs
+- HTTP Methods:
+  - GET
+  - POST
+  - PUT
+  - DELETE
+- HTTP Status Codes:
+  - 200
+  - 404
+  - 500
+- JSON Request and Response handling
+
+---
+
+### 6. Integration Scenarios Practiced
+Created and tested integration scenarios for:
+- Login module + Dashboard module
+- Search module + Results module
+- Cart module + Payment module
+- Form module + Database module
+
+---
+
+### 7. Integration Points Identification
+Learned to identify:
+- Module interfaces
+- API endpoints
+- Database interactions
+- Data exchange points
+
+---
+
+### 8. Integration Test Case Design
+Prepared test cases for:
+- Module-to-module workflows
+- API request and response validation
+- Error handling scenarios
+- Data flow validation
+
+---
+
+## Deliverables Completed
+- System Test Plan prepared
+- Integration Test Strategy documented
+- API testing using Postman completed
+- 50+ Integration Test Cases created
+- Test execution results documented
+- Basic performance testing awareness using JMeter
+
+---
+
+## Conclusion
+Day 7 helped in understanding complete system validation, module integration testing, API testing basics, and identifying interaction points between integrated application components.
