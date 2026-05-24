@@ -1,0 +1,105 @@
+# Day 8 - Bug Life Cycle & Bug Reporting
+
+## Objective
+To understand the bug life cycle, learn effective bug reporting practices, classify bugs correctly, and communicate defects clearly using standard reporting formats.
+
+---
+
+## Topics Covered
+
+### 1. Bug Life Cycle
+Learned different stages of the defect life cycle:
+- New
+- Assigned
+- Open
+- Fixed
+- Retest
+- Verified
+- Closed
+- Reopen
+- Rejected
+- Deferred
+
+Also understood the responsibilities of testers and developers during each stage.
+
+---
+
+### 2. Bug Report Components
+Studied important fields in a bug report:
+- Bug ID
+- Summary
+- Description
+- Steps to Reproduce
+- Expected Result
+- Actual Result
+- Severity
+- Priority
+- Environment Details
+- Attachments
+- Reporter Information
+
+---
+
+### 3. Severity vs Priority
+Learned the difference between:
+- **Severity** → Impact of the defect on application functionality
+- **Priority** → Urgency of fixing the defect
+
+Severity Levels:
+- Critical
+- Major
+- Minor
+- Trivial
+
+Priority Levels:
+- High (P1)
+- Medium (P2)
+- Low (P3)
+
+---
+
+### 4. Effective Bug Reporting
+Learned best practices for writing bug reports:
+- Clear and concise descriptions
+- Reproducible steps
+- Proper evidence attachment
+- One issue per report
+- Professional communication
+
+---
+
+### 5. Bug Reporting Practice
+Practiced:
+- Identifying bugs in demo applications
+- Writing structured bug reports
+- Assigning severity and priority
+- Maintaining consistency in reporting format
+
+---
+
+### 6. Common Mistakes Avoided
+Understood common reporting issues:
+- Vague bug descriptions
+- Missing reproduction steps
+- No screenshots or evidence
+- Multiple defects in one report
+- Unprofessional language
+
+---
+
+### 7. Bug Report Template
+Created a standardized bug reporting template using spreadsheet format for maintaining consistency and traceability.
+
+---
+
+## Deliverables Completed
+- Bug Life Cycle diagram prepared
+- Bug Report template created
+- 20 structured bug reports documented
+- Severity vs Priority examples prepared
+- Bug reporting best practices documented
+
+---
+
+## Conclusion
+Day 8 helped in understanding the complete defect management process, improving bug reporting skills, and learning how to communicate software issues clearly and professionally.
