@@ -1,0 +1,130 @@
+# Day 14 - API Testing & Postman Automation
+
+## Objective
+To understand REST API testing, perform API validation using Postman, automate API test execution,
+and create reusable API test collections with assertions and environment variables.
+
+---
+
+## Tools Used
+- Postman
+- Newman (CLI)
+- JSONPlaceholder API
+- ReqRes API
+- Restful-Booker API
+
+---
+
+## Topics Covered
+
+### 1. API Testing Fundamentals
+Learned:
+- What is an API
+- REST vs SOAP
+- API Request and Response flow
+- Client-Server architecture
+- Importance of API testing
+
+---
+
+### 2. REST API Concepts
+Studied:
+- HTTP Methods
+  - GET
+  - POST
+  - PUT
+  - PATCH
+  - DELETE
+- HTTP Status Codes
+  - 200 OK
+  - 201 Created
+  - 400 Bad Request
+  - 401 Unauthorized
+  - 404 Not Found
+  - 500 Internal Server Error
+- Headers
+- Request Body (JSON & XML)
+- Response Validation
+
+---
+
+### 3. Postman Basics
+Configured and practiced:
+- Postman installation
+- Workspace creation
+- Collection creation
+- Request creation
+- Environment variables
+- Global variables
+
+---
+
+### 4. API Testing Types
+Learned:
+- Functional Testing
+- Validation Testing
+- Error Handling Testing
+- Security Testing (Basics)
+- Load Testing Awareness
+
+---
+
+### 5. API Requests
+Created and executed:
+- GET Requests
+- POST Requests
+- PUT Requests
+- PATCH Requests
+- DELETE Requests
+
+Also practiced:
+- Request chaining
+- Using variables
+- Parameterized requests
+
+---
+
+### 6. Postman Test Scripts
+Created automated validations using JavaScript:
+- Status code verification
+- Response body validation
+- Response time validation
+- JSON value verification
+- JSON Schema validation
+- Variable extraction and reuse
+
+---
+
+### 7. API Automation
+Learned:
+- Collection Runner
+- Data-driven testing using CSV and JSON files
+- Newman CLI execution
+- Basics of CI/CD integration with API tests
+
+---
+
+## Practice APIs
+Performed API testing using:
+- JSONPlaceholder
+- ReqRes API
+- Restful-Booker API
+
+Created multiple requests covering CRUD operations and response validation.
+
+---
+
+## Deliverables Completed
+- Postman Collection created
+- 50+ API requests executed
+- Automated Postman test scripts implemented
+- Environment variables configured
+- Data-driven API tests created
+- Newman execution completed
+- README with API Testing guide prepared
+
+---
+
+## Conclusion
+Day 14 provided hands-on experience with REST API testing, Postman automation, request validation, JavaScript assertions, 
+and collection execution using Newman, building a strong foundation for API testing in real-world QA projects.
