@@ -1,0 +1,106 @@
+# Day 13 - Advanced Selenium & Automation Frameworks
+
+## Objective
+To learn advanced Selenium concepts, handle dynamic web elements, implement waits, build a Page Object Model (POM) framework,
+and organize automation tests using TestNG.
+
+---
+
+## Tools Used
+- Java JDK 21
+- Eclipse IDE
+- Selenium WebDriver
+- TestNG
+- Maven
+- Google Chrome
+- ChromeDriver
+
+---
+
+## Topics Covered
+
+### 1. Selenium Waits
+Learned different synchronization techniques:
+- Implicit Wait
+- Explicit Wait
+- Fluent Wait
+
+Also understood:
+- When to use each wait
+- Why `Thread.sleep()` should be avoided
+
+---
+
+### 2. Handling Complex Scenarios
+Practiced handling:
+- JavaScript Alerts
+- Frames and iFrames
+- Multiple Windows and Tabs
+- Mouse Hover (Actions Class)
+- Drag and Drop
+- Right Click
+- Double Click
+- Keyboard Actions
+
+---
+
+### 3. Handling Dynamic Elements
+Learned techniques for handling:
+- Dynamic IDs
+- AJAX-loaded elements
+- Loading spinners
+- Elements that appear and disappear dynamically
+
+---
+
+### 4. Page Object Model (POM)
+Learned the Page Object Model design pattern:
+- Separate Page Classes
+- Store Locators inside Page Classes
+- Create Action Methods
+- Improve code reusability and maintenance
+
+Implemented:
+- LoginPage
+- HomePage
+- BaseTest
+
+---
+
+### 5. TestNG Framework
+Practiced TestNG features:
+- `@Test`
+- `@BeforeMethod`
+- `@AfterMethod`
+- Assertions
+- Test Suites (`testng.xml`)
+- Test Priorities
+- Data Providers
+- Parallel Execution (Basics)
+
+---
+
+### 6. Automation Framework Structure
+Created a basic automation framework with:
+- Base Test Class
+- Page Classes
+- Test Classes
+- Utility Classes
+- Configuration Files
+- Test Data Files
+
+---
+
+## Deliverables Completed
+- Advanced Selenium scripts created
+- Selenium waits implemented
+- Page Object Model (POM) implemented
+- TestNG test suite created
+- Basic automation framework developed
+- README with framework documentation completed
+
+---
+
+## Conclusion
+Day 13 focused on advanced Selenium automation concepts, including synchronization techniques, handling dynamic web elements,
+implementing the Page Object Model, and building a structured automation framework using Selenium, Java, and TestNG.
