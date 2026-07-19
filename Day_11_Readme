@@ -1,0 +1,113 @@
+# Day 11 - Introduction to Test Automation
+
+## Objective
+To understand the fundamentals of test automation, identify when automation should be used, learn different automation frameworks and tools, 
+and set up the Selenium automation environment using Java.
+
+---
+
+## Tools Used
+- Java JDK 21
+- Eclipse IDE
+- Selenium WebDriver
+- Maven
+- Google Chrome
+- ChromeDriver
+
+---
+
+## Topics Covered
+
+### 1. Test Automation Fundamentals
+Learned:
+- What is Test Automation
+- Benefits of Automation Testing
+- Challenges of Automation
+- Return on Investment (ROI)
+
+---
+
+### 2. When to Automate
+Understood suitable automation scenarios:
+
+**Recommended**
+- Regression Testing
+- Smoke Testing
+- Stable Features
+- Data-Driven Testing
+
+**Not Recommended**
+- Exploratory Testing
+- Frequently Changing UI
+- One-Time Testing
+- Usability Testing
+
+---
+
+### 3. Automation Tools Overview
+Explored commonly used automation tools:
+- Selenium (Web Automation)
+- Appium (Mobile Automation)
+- Cypress (Modern Web Testing)
+- Playwright (Cross-Browser Testing)
+- JUnit / TestNG (Testing Frameworks)
+- Postman / REST Assured (API Testing)
+
+---
+
+### 4. Automation Frameworks
+Learned different automation framework types:
+- Data-Driven Framework
+- Keyword-Driven Framework
+- Hybrid Framework
+- Page Object Model (POM)
+
+Also understood the purpose and advantages of each framework.
+
+---
+
+### 5. Automation Environment Setup
+Configured the Selenium Java automation environment:
+- Verified Java JDK installation
+- Installed Eclipse IDE
+- Created Maven project
+- Added Selenium WebDriver dependency
+- Configured Chrome browser
+- Executed first Selenium project
+
+---
+
+### 6. First Selenium Automation Script
+Created and executed a basic Selenium script to:
+- Launch Chrome browser
+- Navigate to a website
+- Locate a web element
+- Perform an action
+- Verify the result
+- Close the browser
+
+---
+
+### 7. Test Automation Pyramid
+Learned the automation testing pyramid:
+- Unit Testing
+- Integration Testing
+- End-to-End (E2E) Testing
+
+Also understood why automation should focus more on lower testing levels.
+
+---
+
+## Deliverables Completed
+- Automation environment setup completed
+- First Selenium automation script executed
+- Automation tools comparison documented
+- When to Automate checklist prepared
+- Automation strategy document created
+- README with automation basics completed
+
+---
+
+## Conclusion
+Day 11 introduced the fundamentals of test automation, automation frameworks, and Selenium WebDriver. 
+It also involved setting up the Java Selenium environment and executing the first automation script, providing a strong foundation for advanced Selenium concepts.
