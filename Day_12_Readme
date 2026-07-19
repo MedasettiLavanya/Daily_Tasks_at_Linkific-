@@ -1,0 +1,100 @@
+# Day 12 - Selenium WebDriver Basics
+
+## Objective
+To understand Selenium WebDriver fundamentals, learn different locator strategies, perform web element interactions,
+and automate basic web application workflows using Java.
+
+---
+
+## Tools Used
+- Java JDK 21
+- Eclipse IDE
+- Selenium WebDriver
+- Maven
+- Google Chrome
+- ChromeDriver
+
+---
+
+## Topics Covered
+
+### 1. Selenium WebDriver Basics
+Learned:
+- Importing Selenium libraries
+- Initializing WebDriver
+- Opening applications using `driver.get()`
+- Difference between `driver.close()` and `driver.quit()`
+
+---
+
+### 2. Selenium Locators
+Practiced locating web elements using:
+- By ID
+- By Name
+- By Class Name
+- By Tag Name
+- By Link Text
+- By Partial Link Text
+- By CSS Selector
+- By XPath
+
+---
+
+### 3. Locator Strategies
+Learned best practices for creating reliable locators:
+- Prefer ID when available
+- Use Relative XPath instead of Absolute XPath
+- Use CSS Selectors for better performance where applicable
+- Avoid unstable or dynamic locators
+
+---
+
+### 4. Web Element Actions
+Practiced common Selenium methods:
+- `sendKeys()`
+- `click()`
+- `clear()`
+- `getText()`
+- `getAttribute()`
+- `isDisplayed()`
+- `isEnabled()`
+- `isSelected()`
+
+---
+
+### 5. Handling Web Elements
+Worked with different web elements:
+- Text Boxes
+- Buttons
+- Checkboxes
+- Radio Buttons
+- Dropdowns (Select Class)
+- Links
+- Images
+
+---
+
+### 6. Practice Automation Scripts
+Created Selenium automation scripts for:
+- Browser launch and navigation
+- Login functionality
+- Registration form automation
+- Search functionality
+- Add to Cart flow
+- Locator demonstrations
+- Web element interaction examples
+
+---
+
+## Deliverables Completed
+- 10+ Selenium scripts created
+- All locator types demonstrated
+- Web element interaction examples completed
+- Practice website automation performed
+- README with Selenium WebDriver basics created
+
+---
+
+## Conclusion
+Day 12 helped in building a strong foundation in Selenium WebDriver by learning browser automation, locator strategies, 
+element interactions, and automating basic user workflows using Java.
